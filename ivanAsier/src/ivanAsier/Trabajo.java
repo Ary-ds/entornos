@@ -6,6 +6,8 @@ public class Trabajo {
 		
 		System.out.println("hola colega");
 		
+		System.out.println("hago el primero cambio del proyeto ");
+		
 
 	}
 
